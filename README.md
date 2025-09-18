@@ -15,6 +15,11 @@ InternVLA-A1 is an end-to-end vision–language–action (VLA) framework unifing
 - **Hybrid Synthetic-Real Data Corpus**: A hybrid synthetic-real manipulation dataset [InternData-A1](https://huggingface.co/datasets/InternRobotics/InternData-A1), integrating 5 heterogeneous robots, 15 skills, and 200+ scenes, emphasizing multi-robot collaboration under dynamic scenarios.
 - **Impressive Real-World performance**: InternVLA-A1 demonstrates strong effectiveness and generalization in highly dynamic scenarios involving dynamic grasping of conveyor belts and multi-robot collaboration.
 
+### 🏆 **Unified Understanding-Generation-Action Family**
+
+- **F1-VLA** (F1 is a prequel version of InternVLA-A1): [Paper](https://arxiv.org/abs/2509.06951) | [Code](https://github.com/InternRobotics/F1-VLA) | [Model](https://huggingface.co/InternRobotics/F1-VLA)
+- **InternVLA-A1** (Scheduled for late September release)
+
 ## 🤖 Real-World Robot Demonstrations
 
 ### **Package grabbing and flipping in conveyor belt**
