@@ -21,7 +21,7 @@ InternVLA-A1 is an end-to-end vision–language–action (VLA) framework unifing
 <div align="center">
     <video src="https://github.com/user-attachments/assets/07ca1356-9956-4acb-a67e-1d2cf37c8587"
          controls autoplay muted playsinline loop width="720"></video>
-  <p><em>In the conveyor belt scenario, faced with dynamic packages of various shapes, the model can track and accurately predict their movement trajectories in real time, and still achieve stable grasping at high speeds; it can also adaptively complete package flipping and express information identification based on the state of the delivery note.</em></p>
+  <p><em>The model handles dynamically shaped packages on conveyor belts, tracking and predicting their trajectories in real-time to achieve high-speed stable grasping, while adaptively flipping packages and identifying express information from delivery notes.</em></p>
 </div>
 
 
