@@ -18,7 +18,7 @@ InternVLA-A1 is an end-to-end vision–language–action (VLA) framework unifing
 ### 🏆 **Unified Understanding-Generation-Action Family**
 
 - **F1-VLA** (F1 is a prequel version of InternVLA-A1): [Paper](https://arxiv.org/abs/2509.06951) | [Code](https://github.com/InternRobotics/F1-VLA) | [Model](https://huggingface.co/InternRobotics/F1-VLA)
-- **InternVLA-A1** (Scheduled for late September release)
+- **InternVLA-A1**: [Code](https://github.com/InternRobotics/InternVLA-A1) | [Paper/Model (Scheduled for late September release)]()
 
 ## 🤖 Real-World Robot Demonstrations
 
