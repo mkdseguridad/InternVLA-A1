@@ -25,26 +25,11 @@ InternVLA-A1 is an end-to-end vision–language–action (VLA) framework unifing
 </div>
 
 
-### **Rapid Adaptation**
+### **Multi-robot collaboration on long-horizon tasks in dynamic environments**
 <div align="center">
-    <video src="https://github.com/user-attachments/assets/3048e21a-ebdb-4f4e-a96e-f31597412992"
+      <video src="https://github.com/user-attachments/assets/c438ff8a-4536-45b3-9117-e210c36ba8a0"
          controls autoplay muted playsinline loop width="720"></video>
-  <p><em>In the rotating hot pot table scenario, faced with a variety of ingredients running at high speed, the model can quickly identify and locate targets according to the needs of the finished dishes, and accurately complete the gripping, fully demonstrating its high adaptability to complex environments and task-oriented intelligence.</em></p>
-</div>
-
-### **Multi-Robot Collaboration**
-<div align="center">
-      <video src="https://github.com/user-attachments/assets/4435ced0-2cc2-4999-93f4-5ec1e2fbab8f"
-         controls autoplay muted playsinline loop width="720"></video>
-  <p><em>In multi-robot collaboration scenarios, relying on dynamic visual capture technology and the forward-looking prediction algorithm in the "task imagination module", the system can quickly adjust its movements and achieve high-precision real-time interaction.</em></p>
-</div>
-
-
-### **Long-horizon task**
-<div align="center">
-    <video src="https://github.com/user-attachments/assets/849e922f-f41c-4b1a-8b82-4e189fc41d43"
-         controls autoplay muted playsinline loop width="720"></video>
-  <p><em>In terms of long-horizon task such as microwave/oven operation. </em></p>
+  <p><em>The model swiftly identifies, locates, and grips high-speed ingredients based on task demands, showcasing its adaptability in complex environments.</em></p>
 </div>
 
 
