@@ -12,7 +12,7 @@ InternVLA-A1 is an end-to-end vision–language–action (VLA) framework unifing
 <img width="1000" alt="seer" src="assets/internvla_a1_framework.jpg">
 
 - **Novel Model Archituecture**: A Mixture-of-Transformers architecture for unified understanding, generation, and action.
-- **Hybrid Synthetic-Real Data Corpus**: A hybrid synthetic-real manipulation dataset integrating 5 heterogeneous robots, 15 skills, and 200+ scenes, emphasizing multi-robot collaboration under dynamic scenarios.
+- **Hybrid Synthetic-Real Data Corpus**: A hybrid synthetic-real manipulation dataset [InternData-A1](https://huggingface.co/datasets/InternRobotics/InternData-A1), integrating 5 heterogeneous robots, 15 skills, and 200+ scenes, emphasizing multi-robot collaboration under dynamic scenarios.
 - **Impressive Real-World performance**: InternVLA-A1 demonstrates strong effectiveness and generalization in highly dynamic scenarios involving dynamic grasping of conveyor belts and multi-robot collaboration.
 
 ## 🤖 Real-World Robot Demonstrations
